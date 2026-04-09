@@ -4,7 +4,15 @@ This file will list links for the session content.
 
 -----
 
-## 📚 Session Content
+# 📚 Session Content
+## 💡 What We Covered Today
+
+  * **Data Retrieval:** Using `SELECT`, wildcards, and Aliasing (`AS`).
+  * **Filtering:** Implementing `WHERE` clauses with Logical Operators (`AND`, `OR`, `NOT`).
+  * **Organisation:** Sorting data with `ORDER BY` and restricting results with `LIMIT`.
+  * **Data Modification:** Using `UPDATE`, `DELETE`, and `ALTER TABLE`.
+  * **Aggregation:** Summarizing data with `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`.
+  * **Grouping:** Organizing results with `GROUP BY` (see Addi's visual [here](Ihttps://docs.google.com/presentation/d/1t6oO2UhfNw_n0er-aM9qj-bz_MNC30UhBcol7DIant8/edit?slide=id.g3831f05ac55_0_10#slide=id.g3831f05ac55_0_10) ) and filtering groups with `HAVING`.
 
 
 ## 📊 SQL Practice Resources
@@ -18,11 +26,4 @@ Now that we've covered **DQL (Data Query Language)**, you can start practicing d
 
 -----
 
-## 💡 What We Covered Today
-
-  * **Data Retrieval:** Using `SELECT`, wildcards, and Aliasing (`AS`).
-  * **Filtering:** Implementing `WHERE` clauses with Logical Operators (`AND`, `OR`, `NOT`).
-  * **Organization:** Sorting data with `ORDER BY` and restricting results with `LIMIT`.
-  * **Data Modification:** Using `UPDATE`, `DELETE`, and `ALTER TABLE`.
-  * **Aggregation:** Summarizing data with `COUNT`, `SUM`, `AVG`, `MIN`, and `MAX`.
-  * **Grouping:** Organizing results with `GROUP BY` and filtering groups with `HAVING`.
+#
