@@ -22,3 +22,4 @@ This file will list links for the session content.
 - [ALL MySQL Data Types](https://www.w3schools.com/mysql/mysql_datatypes.asp)
   - We went over just the main ones in class
 - [Getting Started with DBeaver](https://dbeaver.com/docs/dbeaver/Getting-started/#additional-resources)
+
