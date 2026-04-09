@@ -17,7 +17,6 @@ This file will list links for the session content.
 
 ## 📊 SQL Practice Resources
 
-Now that we've covered **DQL (Data Query Language)**, you can start practicing data retrieval and manipulation\!
 
   - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Great for interactive practice with `SELECT`, `WHERE`, and `ORDER BY`.
   - [Mode SQL Tutorial](https://www.google.com/search?q=https://mode.com/sql-tutorial/introduction-to-sql/) - Excellent walkthroughs for basic and intermediate querying.
